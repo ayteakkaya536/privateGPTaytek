@@ -1,0 +1,16 @@
+""" WORKING CODE """
+- make sure that you create Virtual Environment for the project first, then add the reqired folders
+- C++ was required, thus Visual Studio Build Tools is required, install it
+- model gpt4all had path related erro, i used absulate path C:\Users\aytea\Intellij_LLM\BussinessGPT\venv\models\ggml-gpt4all-j-v1.3-groovy .bin
+
+How to use
+- follow the instructions on read me
+- place your files into "source_documents"\
+- then run ingest.py -> it will create db.
+- then run "privateGPT.py" for quaries
+
+Sugegstion
+- file type might not work, make sure that type is supported,
+- if you need to mix data types, make sure that you feed them one by one ( test one first type , then add the other
+
+!!! uplaod this repo onto github
